@@ -1,89 +1,108 @@
 # Thomas Valenzuela
 
-Full-stack developer focused on building practical AI tools, internal platforms, and data-driven software.
+Full-stack developer building AI-powered tools, financial software, and automation systems.
 
-Currently developing tools that combine AI, automation, and modern web technologies to solve real operational problems.
+I focus on practical applications of AI that help people organize data, automate workflows, and extract insights from complex information. My projects explore the intersection of financial systems, developer tooling, and intelligent automation.
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Fiscus
-AI-powered personal finance dashboard inspired by the Roman treasury system.
 
-Features:
-- budgeting and cashflow tracking
-- debt management
+AI-powered personal finance platform designed to help users manage their **personal treasury**.
+
+The project is inspired by the Roman *fiscus*, the imperial treasury responsible for tracking revenue and expenditures. Fiscus brings that concept to modern personal finance with a local-first, privacy-focused architecture.
+
+**Key features**
+
+- budgeting and cash-flow tracking
+- debt payoff planning
 - CSV bank imports
-- local-first architecture
-- optional OpenAI financial insights
+- local-first data storage
+- optional AI-generated financial insights
 
-Tech stack:
-React • Vite • JavaScript • Local storage • OpenAI API
+**Tech stack**
 
-Repo:
+React • Vite • JavaScript • OpenAI API
+
+**Repository**
+
 https://github.com/thomasjvalenzuela/fiscus-Ai-finance
 
 ---
 
 ### Firefly Rule Builder
 
-AI-powered rule generator for Firefly III users.
+AI-powered rule generator for users of Firefly III.
 
-Upload a CSV of transactions and generate suggested categorization rules with step-by-step instructions.
+This tool helps users automate transaction categorization by uploading transaction CSV files and generating intelligent rule suggestions with step-by-step configuration instructions.
 
-Features:
+**Key features**
+
 - CSV transaction parsing
 - AI-generated categorization rules
-- rule validation workflow
-- step-by-step Firefly implementation guidance
+- interactive rule validation workflow
+- guided rule creation for Firefly III
 
-Repo:
+**Repository**
+
 https://github.com/thomasjvalenzuela/firefly-rule-builder
-LIVE DEMO: https://thomasjvalenzuela.github.io/fiscus-Ai-finance/
+
+**Live Demo**
+
+https://thomasjvalenzuela.github.io/firefly-rule-builder/
 
 ---
 
 ### SPARK Payroll
 
-Payroll analysis and reporting tool designed for small service businesses.
+Payroll analytics and reporting system designed for service businesses.
 
-Features:
-- commission calculation
-- technician performance analysis
-- operational reporting
+SPARK focuses on operational insights, helping teams analyze technician performance, commission structures, and payroll trends.
 
-Repo:
+**Key features**
+
+- commission calculation and verification
+- technician performance analytics
+- operational reporting dashboards
+
+**Repository**
+
 https://github.com/thomasjvalenzuela/SPARK---Payroll
 
 ---
 
 ## Interests
 
-- AI-assisted developer tools
-- financial data systems
-- workflow automation
-- internal platforms
-- local-first software
+- AI-assisted developer tools  
+- financial data systems  
+- workflow automation  
+- internal productivity platforms  
+- local-first software architecture  
 
 ---
 
-## Tech
+## Tech Stack
 
-Frontend
-- React
-- Vite
-- TypeScript
-- Tailwind
+**Frontend**
 
-Backend
-- Python
-- Node.js
+React  
+Vite  
+TypeScript  
+Tailwind
 
-AI
-- OpenAI API
-- LLM automation workflows
+**Backend**
 
-Infrastructure
-- Docker
-- GitHub Actions
+Python  
+Node.js
+
+**AI / Automation**
+
+OpenAI API  
+LLM workflow automation
+
+**Infrastructure**
+
+Docker  
+GitHub Actions
