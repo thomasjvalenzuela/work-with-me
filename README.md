@@ -40,6 +40,7 @@ Features:
 
 Repo:
 https://github.com/thomasjvalenzuela/firefly-rule-builder
+LIVE DEMO: https://thomasjvalenzuela.github.io/fiscus-Ai-finance/
 
 ---
 
